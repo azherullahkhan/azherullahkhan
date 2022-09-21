@@ -1,10 +1,18 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Azher Khan <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+<h1 align="center"><b>Hi there, I'm Azher Khan <width="30"></b></h1>
 </p>
 
-
 <br />
-<p align="center">DevOps, SRE, PE Enthusiast. Certified in Oracle Cloud Infrastructure, PSPO I Certified. I've experience working on Oracle Cloud, K8S, Terraform, Ansible, Kafka, Argo CD, GitLabCI, Security, ITILv3, Agile) Design, Architect, Develop, Manage CloudNativeApps</p>
+<p align="center">DevOps, SRE, PE Enthusiast. </p>
+<p><b>Certified on:</b></p>
+<p>  - Oracle Cloud Infrastructure </p>
+<p>  - Professional Scrum Product Owner™ (PSPO I) </p>
+<p>  - Information Technology Infrastructure Library (ITIL v3) </p>
+
+<p>Experienced working on Oracle Cloud Infrastructure, OpenStack, Vagrant, Docker, K8S, Terraform, Ansible, Kafka, Argo CD, GitLabCI, Security.</p>
+<p>Expertise at Developing Architecture, Design and Establishing DevOps Solutions, Platform Engineering, Release processes.</p>
+<p>Leading & Mentoring team members to empower Teams and Organizations.</p>
+
 <br />
 
 <!--
