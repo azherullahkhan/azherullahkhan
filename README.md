@@ -3,16 +3,9 @@
 </p>
 
 <br />
-<p align="center">DevOps, SRE, PE Enthusiast. </p>
-<p><b>Certified on:</b></p>
-<p>  - Oracle Cloud Infrastructure </p>
-<p>  - Professional Scrum Product Owner™ (PSPO I) </p>
-<p>  - Information Technology Infrastructure Library (ITIL v3) </p>
-
-<p>Experienced working on Oracle Cloud Infrastructure, OpenStack, Vagrant, Docker, K8S, Terraform, Ansible, Kafka, Argo CD, GitLabCI, Security.</p>
-<p>Expertise at Developing Architecture, Design and Establishing DevOps Solutions, Platform Engineering, Release processes.</p>
-<p>Leading & Mentoring team members to empower Teams and Organizations.</p>
-
+<p align="center"><b>Enthusiast and Certified DevOps, Site Reliability & Platform Engineer. </b></p>
+<p>I've immense experience working on Oracle Cloud Infrastructure, OpenStack, Docker, K8S, Operators, Terraform, Ansible, Python, Bash Scripting, Kafka, Argo CD, GitLabCI, Security.</p>
+<p>I also have expertise at Developing Architecture, Design and Establishing DevOps Solutions, Platform Engineering and Release processes.</p>
 <br />
 
 <!--
